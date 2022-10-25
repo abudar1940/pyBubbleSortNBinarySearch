@@ -1,4 +1,4 @@
-#Developed by Abubakr Dar (Starting from 14/10/2022)
+#Developed by abudar1940 (Starting from 14/10/2022)
 #This will be a simple bubble sort designed for use on integer values.
 #A binary search system will also be added as well
 
