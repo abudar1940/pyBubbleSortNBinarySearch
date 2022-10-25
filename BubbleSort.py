@@ -52,7 +52,7 @@ while intSrch == "placeholder":         #This loop will ensure a correct value i
         intSrch = int(input("Enter the number you would wish to search for:    "))
     except:
         intSrch = "placeholder"
-        print("Inavlid Input")
+        print("Invalid Input")
 
 intEnd = len(sampleList) - 1        #Variable is assigned a value here
 
